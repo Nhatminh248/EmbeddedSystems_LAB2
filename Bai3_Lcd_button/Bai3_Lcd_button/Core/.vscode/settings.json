@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "software_timer.h": "c",
+        "button.h": "c",
+        "type.h": "c"
+    }
+}
