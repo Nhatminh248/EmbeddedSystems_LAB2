@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "button.h": "c",
+        "software_timer.h": "c",
+        "gpio.h": "c"
+    }
+}
